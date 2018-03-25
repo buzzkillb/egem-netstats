@@ -42,8 +42,14 @@ grunt all
 
 ##Run
 
+Then choose a secret and start the app:
 ```bash
-npm start
+WS_SECRET=<chosen_secret> npm start
+```
+
+You can also choose a different port:
+```bash
+PORT=<chosen_port> WS_SECRET=<chosen_secret> npm start
 ```
 
 see the interface at http://localhost:3000
