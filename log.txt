@@ -1,0 +1,4 @@
+
+> eth-netstats@0.1.0 start /root/egem-stats
+> node ./bin/www
+
