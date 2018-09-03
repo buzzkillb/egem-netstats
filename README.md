@@ -54,3 +54,6 @@ PORT=<chosen_port> WS_SECRET=<chosen_secret> npm start
 ```
 
 see the interface at http://localhost:3000
+
+Sample nginx.conf
+https://gist.github.com/cubedro/81fd017886e3cc14d302
