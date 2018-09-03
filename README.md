@@ -19,6 +19,7 @@ git clone https://github.com/TeamEGEM/egem-netstats
 cd eth-netstats
 npm install
 sudo npm install -g grunt-cli
+sudo ln -fs /usr/bin/nodejs /usr/local/bin/node
 ```
 
 ##Build the resources
